@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hotel>
+  <!-- Hotel 1: Missing required attribute 'id' -->
+  <Hotel>
+    <Name>Hilton</Name>
+    <Phone>123-456-7890</Phone>
+    <Address NearestAirport="JFK">
+      <Number>25</Number>
+      <Street>Broadway</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10007</Zip>
+    </Address>
+    <Rating>4.5</Rating>
+  </Hotel>
+  <!-- Hotel 2: Missing Phone element -->
+  <Hotel id="H002">
+    <Name>Marriott</Name>
+    <Address NearestAirport="SFO">
+      <Number>50</Number>
+      <Street>Market St</Street>
+      <City>San Francisco</City>
+      <State>CA</State>
+      <Zip>94103</Zip>
+    </Address>
+    <Rating>4.0</Rating>
+  </Hotel>
+  <!-- Hotel 3: Two Name elements and Address element missing closing tag -->
+  <Hotel id="H003">
+    <Name>Hyatt</Name>
+    <Name>Duplicate Hyatt</Name>
+    <Phone>987-654-3210</Phone>
+    <Address NearestAirport="MIA">
+      <Number>100</Number>
+      <Street>Ocean Dr</Street>
+      <City>Miami</City>
+      <State>FL</State>
+      <Zip>33139</Zip>
+    <!-- Missing closing tag for Address -->
+    <Rating>3.8</Rating>
+  </Hotel>
+</Hotel>
