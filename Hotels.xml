@@ -4,7 +4,7 @@
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
@@ -16,7 +16,7 @@
   <Hotel id="H002">
     <Name>Hilton</Name>
     <Phone>212-555-1234</Phone>
-    <Address NearestAirport="JFK">
+    <Address NearstAirport="JFK">
       <Number>25</Number>
       <Street>Broadway</Street>
       <City>New York</City>
@@ -29,7 +29,7 @@
     <Name>Marriott</Name>
     <Phone>415-555-5678</Phone>
     <Phone>415-555-6789</Phone>
-    <Address NearestAirport="SFO">
+    <Address NearstAirport="SFO">
       <Number>50</Number>
       <Street>Market St</Street>
       <City>San Francisco</City>
@@ -41,7 +41,7 @@
   <Hotel id="H004">
     <Name>Hyatt</Name>
     <Phone>305-555-0001</Phone>
-    <Address NearestAirport="MIA">
+    <Address NearstAirport="MIA">
       <Number>100</Number>
       <Street>Ocean Dr</Street>
       <City>Miami</City>
@@ -53,7 +53,7 @@
   <Hotel id="H005">
     <Name>Ritz-Carlton</Name>
     <Phone>312-555-1111</Phone>
-    <Address NearestAirport="ORD">
+    <Address NearstAirport="ORD">
       <Number>75</Number>
       <Street>Lake Shore Dr</Street>
       <City>Chicago</City>
@@ -65,7 +65,7 @@
   <Hotel id="H006">
     <Name>Four Seasons</Name>
     <Phone>213-555-2222</Phone>
-    <Address NearestAirport="LAX">
+    <Address NearstAirport="LAX">
       <Number>200</Number>
       <Street>Sunset Blvd</Street>
       <City>Los Angeles</City>
@@ -77,7 +77,7 @@
   <Hotel id="H007">
     <Name>Mandarin Oriental</Name>
     <Phone>617-555-3333</Phone>
-    <Address NearestAirport="BOS">
+    <Address NearstAirport="BOS">
       <Number>123</Number>
       <Street>Beacon St</Street>
       <City>Boston</City>
@@ -90,7 +90,7 @@
     <Name>InterContinental</Name>
     <Phone>702-555-4444</Phone>
     <Phone>702-555-5555</Phone>
-    <Address NearestAirport="LAS">
+    <Address NearstAirport="LAS">
       <Number>88</Number>
       <Street>Fremont St</Street>
       <City>Las Vegas</City>
@@ -102,7 +102,7 @@
   <Hotel id="H009">
     <Name>Waldorf Astoria</Name>
     <Phone>202-555-6666</Phone>
-    <Address NearestAirport="IAD">
+    <Address NearstAirport="IAD">
       <Number>150</Number>
       <Street>Pennsylvania Ave</Street>
       <City>Washington</City>
@@ -114,7 +114,7 @@
   <Hotel id="H010">
     <Name>Fairmont</Name>
     <Phone>305-555-7777</Phone>
-    <Address NearestAirport="MIA">
+    <Address NearstAirport="MIA">
       <Number>300</Number>
       <Street>Collins Ave</Street>
       <City>Miami</City>
